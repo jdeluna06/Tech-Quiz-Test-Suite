@@ -82,6 +82,7 @@ npm start
 
 ## Walkthrough Video:**
    For a detailed walkthrough of how the application works, please refer to the video linked below:
+   https://drive.google.com/file/d/10dKJWzIkSE3dFn7m613EL9dAtr9RUYYf/view?usp=sharing
    
 ## Usage
 After installation, you can use Cypress to run the tests:
